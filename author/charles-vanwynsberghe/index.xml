@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Charles Vanwynsberghe | vanwynsberghe.eu</title>
-    <link>http://www.vanwynsberghe.eu/author/charles-vanwynsberghe/</link>
-      <atom:link href="http://www.vanwynsberghe.eu/author/charles-vanwynsberghe/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.vanwynsberghe.eu/author/charles-vanwynsberghe/</link>
+      <atom:link href="https://www.vanwynsberghe.eu/author/charles-vanwynsberghe/index.xml" rel="self" type="application/rss+xml" />
     <description>Charles Vanwynsberghe</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charles Vanwynsberghe</copyright><lastBuildDate>Sun, 08 Nov 2020 22:30:20 +0100</lastBuildDate>
     <image>
-      <url>http://www.vanwynsberghe.eu/author/charles-vanwynsberghe/avatar_hub4717e5f025dc8a73cfef6563015f870_26412_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://www.vanwynsberghe.eu/author/charles-vanwynsberghe/avatar_hub4717e5f025dc8a73cfef6563015f870_26412_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Charles Vanwynsberghe</title>
-      <link>http://www.vanwynsberghe.eu/author/charles-vanwynsberghe/</link>
+      <link>https://www.vanwynsberghe.eu/author/charles-vanwynsberghe/</link>
     </image>
     
     <item>
       <title>Pyworld2</title>
-      <link>http://www.vanwynsberghe.eu/project/pyworld2/</link>
+      <link>https://www.vanwynsberghe.eu/project/pyworld2/</link>
       <pubDate>Sun, 08 Nov 2020 22:30:20 +0100</pubDate>
-      <guid>http://www.vanwynsberghe.eu/project/pyworld2/</guid>
+      <guid>https://www.vanwynsberghe.eu/project/pyworld2/</guid>
       <description></description>
     </item>
     
