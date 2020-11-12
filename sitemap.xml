@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/authors/</loc>
+    <lastmod>2020-11-08T22:30:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/author/charles-vanwynsberghe/</loc>
+    <lastmod>2020-11-08T22:30:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/project/</loc>
+    <lastmod>2020-11-08T22:30:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/project/pyworld2/</loc>
+    <lastmod>2020-11-08T22:30:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/</loc>
+    <lastmod>2020-11-08T22:30:20+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/publication/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://vanwynsberghe.eu/tags/</loc>
+  </url>
+  
+</urlset>
