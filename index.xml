@@ -5,12 +5,20 @@
     <link>https://www.vanwynsberghe.eu/</link>
       <atom:link href="https://www.vanwynsberghe.eu/index.xml" rel="self" type="application/rss+xml" />
     <description>vanwynsberghe.eu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charles Vanwynsberghe</copyright><lastBuildDate>Sun, 08 Nov 2020 22:30:20 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charles Vanwynsberghe</copyright><lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.vanwynsberghe.eu/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>vanwynsberghe.eu</title>
       <link>https://www.vanwynsberghe.eu/</link>
     </image>
+    
+    <item>
+      <title>Pyworld3</title>
+      <link>https://www.vanwynsberghe.eu/project/pyworld3/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.vanwynsberghe.eu/project/pyworld3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pyworld2</title>

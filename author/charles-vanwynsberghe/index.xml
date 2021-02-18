@@ -5,12 +5,20 @@
     <link>https://www.vanwynsberghe.eu/author/charles-vanwynsberghe/</link>
       <atom:link href="https://www.vanwynsberghe.eu/author/charles-vanwynsberghe/index.xml" rel="self" type="application/rss+xml" />
     <description>Charles Vanwynsberghe</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charles Vanwynsberghe</copyright><lastBuildDate>Sun, 08 Nov 2020 22:30:20 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>Charles Vanwynsberghe</copyright><lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.vanwynsberghe.eu/author/charles-vanwynsberghe/avatar_hub4717e5f025dc8a73cfef6563015f870_26412_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Charles Vanwynsberghe</title>
       <link>https://www.vanwynsberghe.eu/author/charles-vanwynsberghe/</link>
     </image>
+    
+    <item>
+      <title>Pyworld3</title>
+      <link>https://www.vanwynsberghe.eu/project/pyworld3/</link>
+      <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://www.vanwynsberghe.eu/project/pyworld3/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Pyworld2</title>
